@@ -1,3 +1,4 @@
 Input_image/ filter=lfs diff=lfs merge=lfs -text
 Output_images/ filter=lfs diff=lfs merge=lfs -text
 Temp_patchified_images/ filter=lfs diff=lfs merge=lfs -text
+Input_image/LC08_L1GT_219109_20231015_20231102_02_T2_B8.tif filter=lfs diff=lfs merge=lfs -text
