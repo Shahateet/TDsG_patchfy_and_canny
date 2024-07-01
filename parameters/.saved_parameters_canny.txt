@@ -1,0 +1,7 @@
+Image_gain:
+	multiplier: 1
+	subtractor: 0
+
+Canny_parameters:
+	bottom_threshold: 200
+	upper_threshold: 400
